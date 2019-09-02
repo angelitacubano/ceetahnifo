@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deefeicah.indevelopment.ca/sitemap.xml
